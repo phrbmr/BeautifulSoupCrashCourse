@@ -1,5 +1,6 @@
 # Beautiful Soup Crash Course
 Web Scraping with Python - Beautiful Soup Crash Course by @freeCodeCamp developed by @jimdevops19
+https://youtu.be/XVv6mJpFOb0
 
 
 ## 1. Local HTML Scraping:
