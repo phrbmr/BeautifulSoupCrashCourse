@@ -1,6 +1,10 @@
 # Beautiful Soup Crash Course
 Web Scraping with Python - Beautiful Soup Crash Course by @freeCodeCamp developed by @jimdevops19
+https://youtu.be/XVv6mJpFOb0
 
+Rules of webscraping:
+The first rule of scraping the web is: do not harm the website. The second rule of web crawling is: do NOT harm the website.
+https://www.zyte.com/learn/web-scraping-best-practices/
 
 ## 1. Local HTML Scraping:
 - Basic HTML Structure, HTML Tags Explanation
