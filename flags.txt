@@ -1,0 +1,195 @@
+Afghanistan_: https://www.worldometers.info/img/flags/af-flag.gif
+Albania_: https://www.worldometers.info/img/flags/al-flag.gif
+Algeria_: https://www.worldometers.info/img/flags/ag-flag.gif
+Andorra_: https://www.worldometers.info/img/flags/an-flag.gif
+Angola_: https://www.worldometers.info/img/flags/ao-flag.gif
+Antigua and Barbuda_: https://www.worldometers.info/img/flags/ac-flag.gif
+Argentina_: https://www.worldometers.info/img/flags/ar-flag.gif
+Armenia_: https://www.worldometers.info/img/flags/am-flag.gif
+Australia_: https://www.worldometers.info/img/flags/as-flag.gif
+Austria_: https://www.worldometers.info/img/flags/au-flag.gif
+Azerbaijan_: https://www.worldometers.info/img/flags/aj-flag.gif
+Bahamas_: https://www.worldometers.info/img/flags/bf-flag.gif
+Bahrain_: https://www.worldometers.info/img/flags/ba-flag.gif
+Bangladesh_: https://www.worldometers.info/img/flags/bg-flag.gif
+Barbados_: https://www.worldometers.info/img/flags/bb-flag.gif
+Belarus_: https://www.worldometers.info/img/flags/bo-flag.gif
+Belgium_: https://www.worldometers.info/img/flags/be-flag.gif
+Belize_: https://www.worldometers.info/img/flags/bh-flag.gif
+Benin_: https://www.worldometers.info/img/flags/bn-flag.gif
+Bhutan_: https://www.worldometers.info/img/flags/bt-flag.gif
+Bolivia_: https://www.worldometers.info/img/flags/bl-flag.gif
+Bosnia and Herzegovina_: https://www.worldometers.info/img/flags/bk-flag.gif
+Botswana_: https://www.worldometers.info/img/flags/bc-flag.gif
+Brazil_: https://www.worldometers.info/img/flags/br-flag.gif
+Brunei _: https://www.worldometers.info/img/flags/bx-flag.gif
+Bulgaria_: https://www.worldometers.info/img/flags/bu-flag.gif
+Burkina Faso_: https://www.worldometers.info/img/flags/uv-flag.gif
+Burundi_: https://www.worldometers.info/img/flags/by-flag.gif
+Côte d'Ivoire_: https://www.worldometers.info/img/flags/iv-flag.gif
+Cabo Verde_: https://www.worldometers.info/img/flags/cv-flag.gif
+Cambodia_: https://www.worldometers.info/img/flags/cb-flag.gif
+Cameroon_: https://www.worldometers.info/img/flags/cm-flag.gif
+Canada_: https://www.worldometers.info/img/flags/ca-flag.gif
+CAR_: https://www.worldometers.info/img/flags/ct-flag.gif
+Chad_: https://www.worldometers.info/img/flags/cd-flag.gif
+Chile_: https://www.worldometers.info/img/flags/ci-flag.gif
+China_: https://www.worldometers.info/img/flags/ch-flag.gif
+Colombia_: https://www.worldometers.info/img/flags/co-flag.gif
+Comoros_: https://www.worldometers.info/img/flags/cn-flag.gif
+Congo_: https://www.worldometers.info/img/flags/cg-flag.gif
+Costa Rica_: https://www.worldometers.info/img/flags/cs-flag.gif
+Croatia_: https://www.worldometers.info/img/flags/hr-flag.gif
+Cuba_: https://www.worldometers.info/img/flags/cu-flag.gif
+Cyprus_: https://www.worldometers.info/img/flags/cy-flag.gif
+Czechia_: https://www.worldometers.info/img/flags/ez-flag.gif
+Denmark_: https://www.worldometers.info/img/flags/da-flag.gif
+Djibouti_: https://www.worldometers.info/img/flags/dj-flag.gif
+Dominica_: https://www.worldometers.info/img/flags/do-flag.gif
+Dominican Republic_: https://www.worldometers.info/img/flags/dr-flag.gif
+DPRK_: https://www.worldometers.info/img/flags/kn-flag.gif
+DRC_: https://www.worldometers.info/img/flags/congo-flag.gif
+Ecuador_: https://www.worldometers.info/img/flags/ec-flag.gif
+Egypt_: https://www.worldometers.info/img/flags/eg-flag.gif
+El Salvador_: https://www.worldometers.info/img/flags/es-flag.gif
+Equatorial Guinea_: https://www.worldometers.info/img/flags/ek-flag.gif
+Eritrea_: https://www.worldometers.info/img/flags/er-flag.gif
+Estonia_: https://www.worldometers.info/img/flags/en-flag.gif
+Eswatini_: https://www.worldometers.info/img/flags/wz-flag.gif
+Ethiopia_: https://www.worldometers.info/img/flags/et-flag.gif
+Fiji_: https://www.worldometers.info/img/flags/fj-flag.gif
+Finland_: https://www.worldometers.info/img/flags/fi-flag.gif
+France_: https://www.worldometers.info/img/flags/fr-flag.gif
+Gabon_: https://www.worldometers.info/img/flags/gb-flag.gif
+Gambia_: https://www.worldometers.info/img/flags/ga-flag.gif
+Georgia_: https://www.worldometers.info/img/flags/gg-flag.gif
+Germany_: https://www.worldometers.info/img/flags/gm-flag.gif
+Ghana_: https://www.worldometers.info/img/flags/gh-flag.gif
+Greece_: https://www.worldometers.info/img/flags/gr-flag.gif
+Grenada_: https://www.worldometers.info/img/flags/gj-flag.gif
+Guatemala_: https://www.worldometers.info/img/flags/gt-flag.gif
+Guinea_: https://www.worldometers.info/img/flags/gv-flag.gif
+Guinea-Bissau_: https://www.worldometers.info/img/flags/pu-flag.gif
+Guyana_: https://www.worldometers.info/img/flags/gy-flag.gif
+Haiti_: https://www.worldometers.info/img/flags/ha-flag.gif
+Holy See_: https://www.worldometers.info/img/flags/vt-flag.gif
+Honduras_: https://www.worldometers.info/img/flags/ho-flag.gif
+Hungary_: https://www.worldometers.info/img/flags/hu-flag.gif
+Iceland_: https://www.worldometers.info/img/flags/ic-flag.gif
+India_: https://www.worldometers.info/img/flags/in-flag.gif
+Indonesia_: https://www.worldometers.info/img/flags/id-flag.gif
+Iran_: https://www.worldometers.info/img/flags/ir-flag.gif
+Iraq_: https://www.worldometers.info/img/flags/iz-flag.gif
+Ireland_: https://www.worldometers.info/img/flags/ei-flag.gif
+Israel_: https://www.worldometers.info/img/flags/is-flag.gif
+Italy_: https://www.worldometers.info/img/flags/it-flag.gif
+Jamaica_: https://www.worldometers.info/img/flags/jm-flag.gif
+Japan_: https://www.worldometers.info/img/flags/ja-flag.gif
+Jordan_: https://www.worldometers.info/img/flags/jo-flag.gif
+Kazakhstan_: https://www.worldometers.info/img/flags/kz-flag.gif
+Kenya_: https://www.worldometers.info/img/flags/ke-flag.gif
+Kiribati_: https://www.worldometers.info/img/flags/kr-flag.gif
+Kuwait_: https://www.worldometers.info/img/flags/ku-flag.gif
+Kyrgyzstan_: https://www.worldometers.info/img/flags/kg-flag.gif
+Laos_: https://www.worldometers.info/img/flags/la-flag.gif
+Latvia_: https://www.worldometers.info/img/flags/lg-flag.gif
+Lebanon_: https://www.worldometers.info/img/flags/le-flag.gif
+Lesotho_: https://www.worldometers.info/img/flags/lt-flag.gif
+Liberia_: https://www.worldometers.info/img/flags/li-flag.gif
+Libya_: https://www.worldometers.info/img/flags/ly-flag.gif
+Liechtenstein_: https://www.worldometers.info/img/flags/ls-flag.gif
+Lithuania_: https://www.worldometers.info/img/flags/lh-flag.gif
+Luxembourg_: https://www.worldometers.info/img/flags/lu-flag.gif
+Madagascar_: https://www.worldometers.info/img/flags/ma-flag.gif
+Malawi_: https://www.worldometers.info/img/flags/mi-flag.gif
+Malaysia_: https://www.worldometers.info/img/flags/my-flag.gif
+Maldives_: https://www.worldometers.info/img/flags/mv-flag.gif
+Mali_: https://www.worldometers.info/img/flags/ml-flag.gif
+Malta_: https://www.worldometers.info/img/flags/mt-flag.gif
+Marshall Islands_: https://www.worldometers.info/img/flags/rm-flag.gif
+Mauritania_: https://www.worldometers.info/img/flags/mr-flag.gif
+Mauritius_: https://www.worldometers.info/img/flags/mp-flag.gif
+Mexico_: https://www.worldometers.info/img/flags/mx-flag.gif
+Micronesia_: https://www.worldometers.info/img/flags/fm-flag.gif
+Moldova_: https://www.worldometers.info/img/flags/md-flag.gif
+Monaco_: https://www.worldometers.info/img/flags/mn-flag.gif
+Mongolia_: https://www.worldometers.info/img/flags/mg-flag.gif
+Montenegro_: https://www.worldometers.info/img/flags/mj-flag.gif
+Morocco_: https://www.worldometers.info/img/flags/mo-flag.gif
+Mozambique_: https://www.worldometers.info/img/flags/mz-flag.gif
+Myanmar_: https://www.worldometers.info/img/flags/bm-flag.gif
+Namibia_: https://www.worldometers.info/img/flags/wa-flag.gif
+Nauru_: https://www.worldometers.info/img/flags/nr-flag.gif
+Nepal_: https://www.worldometers.info/img/flags/np-flag.gif
+Netherlands_: https://www.worldometers.info/img/flags/nl-flag.gif
+New Zealand_: https://www.worldometers.info/img/flags/nz-flag.gif
+Nicaragua_: https://www.worldometers.info/img/flags/nu-flag.gif
+Niger_: https://www.worldometers.info/img/flags/ng-flag.gif
+Nigeria_: https://www.worldometers.info/img/flags/ni-flag.gif
+North Macedonia_: https://www.worldometers.info/img/flags/mk-flag.gif
+Norway_: https://www.worldometers.info/img/flags/no-flag.gif
+Oman_: https://www.worldometers.info/img/flags/mu-flag.gif
+Pakistan_: https://www.worldometers.info/img/flags/pk-flag.gif
+Palau_: https://www.worldometers.info/img/flags/ps-flag.gif
+Panama_: https://www.worldometers.info/img/flags/pm-flag.gif
+Papua New Guinea_: https://www.worldometers.info/img/flags/pp-flag.gif
+Paraguay_: https://www.worldometers.info/img/flags/pa-flag.gif
+Peru_: https://www.worldometers.info/img/flags/pe-flag.gif
+Philippines_: https://www.worldometers.info/img/flags/rp-flag.gif
+Poland_: https://www.worldometers.info/img/flags/pl-flag.gif
+Portugal_: https://www.worldometers.info/img/flags/po-flag.gif
+Qatar_: https://www.worldometers.info/img/flags/qa-flag.gif
+Romania_: https://www.worldometers.info/img/flags/ro-flag.gif
+Russia_: https://www.worldometers.info/img/flags/rs-flag.gif
+Rwanda_: https://www.worldometers.info/img/flags/rw-flag.gif
+Saint Kitts and Nevis_: https://www.worldometers.info/img/flags/sc-flag.gif
+Saint Lucia_: https://www.worldometers.info/img/flags/st-flag.gif
+Samoa_: https://www.worldometers.info/img/flags/ws-flag.gif
+San Marino_: https://www.worldometers.info/img/flags/sm-flag.gif
+Sao Tome and Principe_: https://www.worldometers.info/img/flags/tp-flag.gif
+Saudi Arabia_: https://www.worldometers.info/img/flags/sa-flag.gif
+Senegal_: https://www.worldometers.info/img/flags/sg-flag.gif
+Serbia_: https://www.worldometers.info/img/flags/ri-flag.gif
+Seychelles_: https://www.worldometers.info/img/flags/se-flag.gif
+Sierra Leone_: https://www.worldometers.info/img/flags/sl-flag.gif
+Singapore_: https://www.worldometers.info/img/flags/sn-flag.gif
+Slovakia_: https://www.worldometers.info/img/flags/lo-flag.gif
+Slovenia_: https://www.worldometers.info/img/flags/si-flag.gif
+Solomon Islands_: https://www.worldometers.info/img/flags/bp-flag.gif
+Somalia_: https://www.worldometers.info/img/flags/so-flag.gif
+South Africa_: https://www.worldometers.info/img/flags/sf-flag.gif
+South Korea_: https://www.worldometers.info/img/flags/ks-flag.gif
+South Sudan_: https://www.worldometers.info/img/flags/od-flag.gif
+Spain_: https://www.worldometers.info/img/flags/sp-flag.gif
+Sri Lanka_: https://www.worldometers.info/img/flags/ce-flag.gif
+St. Vincent Grenadines_: https://www.worldometers.info/img/flags/vc-flag.gif
+State of Palestine_: https://www.worldometers.info/img/flags/palestine-flag.gif
+Sudan_: https://www.worldometers.info/img/flags/su-flag.gif
+Suriname_: https://www.worldometers.info/img/flags/ns-flag.gif
+Sweden_: https://www.worldometers.info/img/flags/sw-flag.gif
+Switzerland_: https://www.worldometers.info/img/flags/sz-flag.gif
+Syria_: https://www.worldometers.info/img/flags/sy-flag.gif
+Tajikistan_: https://www.worldometers.info/img/flags/ti-flag.gif
+Tanzania_: https://www.worldometers.info/img/flags/tz-flag.gif
+Thailand_: https://www.worldometers.info/img/flags/th-flag.gif
+Timor-Leste_: https://www.worldometers.info/img/flags/tt-flag.gif
+Togo_: https://www.worldometers.info/img/flags/to-flag.gif
+Tonga_: https://www.worldometers.info/img/flags/tn-flag.gif
+Trinidad and Tobago_: https://www.worldometers.info/img/flags/td-flag.gif
+Tunisia_: https://www.worldometers.info/img/flags/ts-flag.gif
+Turkey_: https://www.worldometers.info/img/flags/tu-flag.gif
+Turkmenistan_: https://www.worldometers.info/img/flags/tx-flag.gif
+Tuvalu_: https://www.worldometers.info/img/flags/tv-flag.gif
+U.A.E._: https://www.worldometers.info/img/flags/ae-flag.gif
+U.K._: https://www.worldometers.info/img/flags/uk-flag.gif
+U.S._: https://www.worldometers.info/img/flags/us-flag.gif
+Uganda_: https://www.worldometers.info/img/flags/ug-flag.gif
+Ukraine_: https://www.worldometers.info/img/flags/up-flag.gif
+Uruguay_: https://www.worldometers.info/img/flags/uy-flag.gif
+Uzbekistan_: https://www.worldometers.info/img/flags/uz-flag.gif
+Vanuatu_: https://www.worldometers.info/img/flags/nh-flag.gif
+Venezuela_: https://www.worldometers.info/img/flags/ve-flag.gif
+Vietnam_: https://www.worldometers.info/img/flags/vm-flag.gif
+Yemen_: https://www.worldometers.info/img/flags/ym-flag.gif
+Zambia_: https://www.worldometers.info/img/flags/za-flag.gif
+Zimbabwe_: https://www.worldometers.info/img/flags/zi-flag.gif

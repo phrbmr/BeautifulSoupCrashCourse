@@ -1,2 +1,3 @@
 language = "bash"
 run = "python main.py"
+API_KEY = "$ApiGoogleSheet"
